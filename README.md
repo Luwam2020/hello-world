@@ -1,2 +1,4 @@
 # hello-world
-Test repo
+Hi Everyone!
+
+This is a test, jsut playing around.
